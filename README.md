@@ -18,7 +18,7 @@ REVO is a native Android connectivity application powered by the bundled Xray co
 
 ## Install (First Time)
 
-1. Download `REVO-2.1.10-release-signed.apk`.
+1. Download `REVO-2.1.10.apk`.
 2. Open the APK and allow installation from this source when Android asks.
 3. Open REVO and add a server using a share link, manual entry, or subscription URL.
 4. Select a server and press Connect.

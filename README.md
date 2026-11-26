@@ -1,4 +1,4 @@
-[# REVO 2.1.10 — Android
+# REVO 2.1.10 — Android
 
 REVO is a native Android connectivity application powered by the bundled Xray core. It connects to the servers you add and provides server management, subscription support, and configurable DNS options.
 

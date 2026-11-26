@@ -6,7 +6,7 @@ REVO is a native Android connectivity application powered by the bundled Xray co
 
 | File | Purpose |
 |---|---|
-| `REVO-2.1.10-release-signed.apk` | Official Android installer. Signed with the permanent REVO release key. |
+| `REVO-2.1.10.apk` | Official Android installer. Signed with the permanent REVO release key. |
 | `SHA256SUMS.txt` | SHA-256 checksum for verifying the APK download. |
 
 ## Requirements
@@ -41,7 +41,7 @@ The application ID remains unchanged: `com.revo.android`.
 On Windows PowerShell:
 
 ```powershell
-Get-FileHash .\REVO-2.1.10-release-signed.apk -Algorithm SHA256
+Get-FileHash .\REVO-2.1.10.apk -Algorithm SHA256
 ```
 
 On Linux or macOS:

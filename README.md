@@ -84,4 +84,3 @@ REVO is proprietary, closed-source software. Its application source code is not 
 ---
 
 Thank you for using REVO!
-](https://github.com/TANKDEMPS3Y/REVO-for-android)

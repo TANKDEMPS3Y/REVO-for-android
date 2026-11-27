@@ -10,8 +10,8 @@ REVO is a native Android connectivity application powered by the bundled Xray co
 ### Servers
 ![REVO Servers](screenshots/servers.png)
 
-### DNS Changer
-![REVO DNS Changer](screenshots/dns-changer.png)
+### Subscription
+![REVO DNS Changer](screenshots/subscription.png)
 
 ### Settings
 ![REVO Settings](screenshots/settings.png)

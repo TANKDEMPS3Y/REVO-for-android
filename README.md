@@ -5,22 +5,34 @@ REVO is a native Android connectivity application powered by the bundled Xray co
 ## Screenshots
 
 ### Connect
-![REVO Connect](screenshots/connect.jpg)
+
+<p align="center">
+  <img src="screenshots/connect.jpg" width="250" alt="REVO Connect" />
+</p>
 
 ### Servers
-![REVO Servers](screenshots/servers.jpg)
+
+<p align="center">
+  <img src="screenshots/servers.jpg" width="250" alt="REVO Servers" />
+</p>
 
 ### Subscription
-![REVO DNS Changer](screenshots/subscription.jpg)
+
+<p align="center">
+  <img src="screenshots/subscription.jpg" width="250" alt="REVO Subscription" />
+</p>
 
 ### Settings
-![REVO Settings](screenshots/settings.jpg)
+
+<p align="center">
+  <img src="screenshots/settings.jpg" width="250" alt="REVO Settings" />
+</p>
 
 ## Download
 
 | File | Purpose |
 |---|---|
-| `REVO-2.1.10.apk` | Official Android installer. Signed with the permanent REVO release key. |
+| `REVO-2.1.10.apk` | Official Android installer, signed with the permanent REVO release key. |
 | `SHA256SUMS.txt` | SHA-256 checksum for verifying the APK download. |
 
 ## Requirements
